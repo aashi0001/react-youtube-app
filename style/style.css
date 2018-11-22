@@ -1,0 +1,17 @@
+.search-bar input {
+    width: 75%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+
+.list-group-item{
+    cursor: pointer;
+}
+.list-group-item:hover{
+    background-color: #eee;
+}
+@media screen and (max-width: 600px) {
+    .video-list {
+        margin-top: 10%;
+    }
+}
